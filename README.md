@@ -7,10 +7,10 @@ Worker é um exercício que faz parte da lista de exercícios do curso Java COMP
 O exercício consiste em ler os dados de um trabalhador e depois mostrar qual foi o salário do trabalhador nesse mês. 
 
 ## Modelo conceitual
-![Worker_UML](https://user-images.githubusercontent.com/105529988/178114279-194d481a-ebc4-46c4-83b5-1064dc26d8fd.png)
+![Worker_UML](https://user-images.githubusercontent.com/105529988/178134778-026ea0cf-f8ae-4c0b-a8ac-9cea8cd8a28c.png)
 
 ## Layout
-![Worker_result](https://user-images.githubusercontent.com/105529988/178114424-41a92192-997f-463d-b64e-d4a5b2ecd3c6.png)
+![Worker_result](https://user-images.githubusercontent.com/105529988/178134822-a714c138-72ff-41e4-a39d-e4e6699583dc.png)
 
 # Tecnologia utilizada
 - Java
